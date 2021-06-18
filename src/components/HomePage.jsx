@@ -24,7 +24,7 @@ const dispatch = useDispatch()
         commentary, health and technology and anything in between.
         </p>
         <GoogleLogin
-          clientId="921001668917-n5qba5v9cbcvj6mshcpf2bn9739qilm5.apps.googleusercontent.com"
+          clientId=""
           render={(renderProps) => (
             <button
               onClick={renderProps.onClick}
